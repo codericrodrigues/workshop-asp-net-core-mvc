@@ -62,3 +62,4 @@ C:\Users\Eric\Desktop\ARQUIVOS\TECINFO\.NET C#\workshop-asp-net-core-mvc\SalesWe
 C:\Users\Eric\Desktop\ARQUIVOS\TECINFO\.NET C#\workshop-asp-net-core-mvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\Eric\Desktop\ARQUIVOS\TECINFO\.NET C#\workshop-asp-net-core-mvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\Eric\Desktop\ARQUIVOS\TECINFO\.NET C#\workshop-asp-net-core-mvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\Eric\Desktop\ARQUIVOS\TECINFO\.NET C#\workshop-asp-net-core-mvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
