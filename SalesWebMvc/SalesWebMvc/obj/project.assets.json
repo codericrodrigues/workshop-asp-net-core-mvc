@@ -11807,11 +11807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eric\\Desktop\\ARQUIVOS\\TECINFO\\.NET C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Users\\Eric\\Desktop\\ARQUIVOS\\TECINFO\\.NET C#\\workshop-asp-net-core-mvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Users\\Eric\\Desktop\\ARQUIVOS\\TECINFO\\.NET C#\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectPath": "C:\\Users\\Eric\\Desktop\\ARQUIVOS\\TECINFO\\.NET C#\\workshop-asp-net-core-mvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eric\\Desktop\\ARQUIVOS\\TECINFO\\.NET C#\\SalesWebMvc\\SalesWebMvc\\obj\\",
+      "outputPath": "C:\\Users\\Eric\\Desktop\\ARQUIVOS\\TECINFO\\.NET C#\\workshop-asp-net-core-mvc\\SalesWebMvc\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
